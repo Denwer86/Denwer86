@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Denwer86
-- 👀 I’m interested in blockchain testnet / mainnet
-- 🌱 I’m currently learning Cosmos and Near
-- 💞️ I’m looking to collaborate on testing new protocols
-- 📫 How to reach me: https://twitter.com/Denwer34880198
+- 👋 Hi, RuneCode is here!
+- 👀 We are testnets / mainnets provider
+- 🌱 Currently focused on Cosmos and Near
+- 💞️ Looking forward to collaborate with new protocols
+- 📫 How to reach us: https://twitter.com/Denwer34880198
